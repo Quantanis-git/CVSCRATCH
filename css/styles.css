@@ -1,0 +1,30 @@
+body{
+font-family: sans-serif;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  color: powderblue;
+  font-size: 500%;
+  font-family: 'Sacramento', cursive;
+  padding-top: 100px;
+}
+h2
+{ font-size: 200%;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-bottom: 200px;
+  margin: 0;
+}
+
+.btn
+{
+  color: powderblue;
+}
+.footer-link
+{
+  color: powderblue;
+}
